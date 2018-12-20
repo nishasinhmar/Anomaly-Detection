@@ -17,4 +17,6 @@ Under Sampling & Over Sampling :
 Oversampling : you duplicate the observations of the minority class to obtain a balanced dataset.
 Undersampling : you drop observations of the majority class to obtain a balanced dataset, see illustration.
 
+![us and os](https://user-images.githubusercontent.com/32998362/50272109-b9125700-045c-11e9-8ba9-a6bdee45958c.png)
 
+This is the image showing the illustrations required for Under Sampling and Over Sampling. 
