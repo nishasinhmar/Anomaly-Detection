@@ -20,3 +20,5 @@ Undersampling : you drop observations of the majority class to obtain a balanced
 ![us and os](https://user-images.githubusercontent.com/32998362/50272109-b9125700-045c-11e9-8ba9-a6bdee45958c.png)
 
 This is the image showing the illustrations required for Under Sampling and Over Sampling. 
+
+You an visit the dataset using kaggle datasets download -d mlg-ulb/creditcardfraud
