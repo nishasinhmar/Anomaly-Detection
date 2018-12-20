@@ -10,4 +10,6 @@ We ought to analyse the confusion Matrix rather than the Accuracy Score, as we m
 So here we come and use different evaluation metrics such as Precision, Recall, F1 Score and Support.
 Here below is the way to claculate them : 
 
+![cm2](https://user-images.githubusercontent.com/32998362/50271848-0cd07080-045c-11e9-9561-603a3030089e.png)
+
 
