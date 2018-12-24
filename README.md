@@ -12,7 +12,7 @@ Here below is the way to claculate them :
 
 ![cm2](https://user-images.githubusercontent.com/32998362/50271848-0cd07080-045c-11e9-9561-603a3030089e.png)
 
-Under Sampling & Over Sampling : 
+Under Sampling & Over Sampling (I used SMOTE)) : 
 
 Oversampling : you duplicate the observations of the minority class to obtain a balanced dataset.
 Undersampling : you drop observations of the majority class to obtain a balanced dataset, see illustration.
